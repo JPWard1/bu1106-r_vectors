@@ -58,5 +58,5 @@ Set _modules_ as the names of _book_cost_.
 
 What do you need to type into R or R Studio to display the object you created, i.e. to show the book costs and the module codes?
 
-**Answer:** Replace this text with the appropriate R command(s).
+`book_cost`
 
