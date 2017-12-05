@@ -35,7 +35,8 @@ You have to work on this task by yourself.
 
 Set up a vector named _modules_ consisting of the module codes of the modules you study this year. 
 
-**Answer:** Replace this text with the appropriate R command(s).
+
+`modules <- c("BU1006", "BU1106", "HR1005", "HR1007")`
 
 #### Question 2
 
