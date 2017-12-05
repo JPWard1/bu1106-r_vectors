@@ -46,7 +46,7 @@ If you are not sure which book to take just take the first book from the module'
 
 Set up a vector named _book_cost_ consisting of the book costs. Use the same order as you did in the _modules_ vector. 
 
-**Answer:** Replace this text with the appropriate R command(s).
+`book_cost <-c(39.09, 45.59, 49.04, 35.99)`
 
 #### Question 3
 
