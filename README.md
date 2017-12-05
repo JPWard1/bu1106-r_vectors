@@ -52,7 +52,7 @@ Set up a vector named _book_cost_ consisting of the book costs. Use the same ord
 
 Set _modules_ as the names of _book_cost_.
 
-**Answer:** Replace this text with the appropriate R command(s).
+`names(book_cost) <- modules`
 
 #### Question 4
 
